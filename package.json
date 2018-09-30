@@ -1,0 +1,30 @@
+{
+  "name": "@s9a/cake",
+  "version": "0.2.0",
+  "description": "Colors that stick.",
+  "main": "cake.css",
+  "license": "ISC",
+  "homepage": "https://s9a.github.io/cake/",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s9a/cake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s9a/cake/issues"
+  },
+  "keywords": [
+    "color palette",
+    "color scheme",
+    "color system",
+    "palette",
+    "simple",
+    "colors",
+    "color",
+    "neon",
+    "vibe",
+    "css"
+  ]
+}
