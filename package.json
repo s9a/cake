@@ -1,6 +1,6 @@
 {
   "name": "@s9a/cake",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Flavors are colors that stick.",
   "main": "cake.css",
   "license": "ISC",
