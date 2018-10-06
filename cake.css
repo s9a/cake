@@ -1,0 +1,19 @@
+.cake-dish { background: hsl(40,80%,95%) !important; color: hsl(0,0%,20%) !important }
+.cake-vday { background: hsl(330,99%,75%) !important; color: hsl(0,0%,10%) !important }
+.cake-bday { background: hsl(190,60%,70%) !important; color: hsl(240,100%,25%) !important }
+.cake-plum { background: hsl(220,60%,70%) !important; color: hsl(250,100%,1%) !important }
+.cake-lime { background: hsl(150,80%,50%) !important; color: hsl(90,50%,8%) !important }
+.cake-lemon { background: hsl(50,99%,60%) !important; color: hsl(90,50%,8%) !important }
+.cake-peach { background: hsl(25,100%,51%) !important; color: hsl(0,0%,1%) !important }
+.cake-cherry { background: hsl(0,100%,61%) !important; color: hsl(0,0%,1%) !important }
+
+.cake-clean:not(.cake-unclean),
+.cake-clean :not(.cake-unclean) {
+  color: inherit;
+  background: inherit;
+}
+
+.cake-flat:not(.cake-unflat),
+.cake-flat :not(.cake-unflat) {
+  border-color: transparent;
+}
